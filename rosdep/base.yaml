@@ -1473,7 +1473,7 @@ opencv2:
 pcl:
   debian: libpcl1-dev
 ros:
-  oneiric: |
+  debian: |
     #!/bin/bash
     echo "no.."
 
