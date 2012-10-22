@@ -1470,3 +1470,5 @@ swig-wx:
   debian: swig
 opencv2:
   debian: libopencv-dev
+pcl:
+  debian: libpcl1-dev
