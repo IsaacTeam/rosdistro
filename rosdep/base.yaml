@@ -1471,9 +1471,10 @@ swig-wx:
 opencv2:
   debian: libopencv-dev
 pcl:
-  debian: |
-    #!/bin/bash
-    echo "This is a stompbox message to install pcl. You now have installed pcl."
+  debian:
+    wheezy:
+      libpcl1-dev
+
 ros:
   debian: |
     #!/bin/bash
