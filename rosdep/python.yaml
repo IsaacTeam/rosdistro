@@ -40,6 +40,8 @@ python-catkin-pkg:
   fedora:
     pip:
       packages: [ catkin_pkg ]
+  arch: python2-catking_pkg
+
 python-clearsilver:
   ubuntu: python-clearsilver
   debian: python-clearsilver
@@ -58,6 +60,7 @@ python-cwiid:
 python-empy:
   ubuntu: python-empy
   fedora: python-empy
+  arch: python2-empy
 python-gst:
   ubuntu: python-gst0.10
 python-gtk2:
@@ -222,6 +225,7 @@ python-twisted-core:
   ubuntu: python-twisted-core
 python-psutil:
   ubuntu: python-psutil
+  arch: python2-psutil
 python-yaml:
   ubuntu: python-yaml
   debian: python-yaml
