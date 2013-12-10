@@ -165,7 +165,7 @@ python-qt-bindings-gl:
   ubuntu: python-qt4-gl
 python-qt-bindings-qwt5:
   ubuntu: python-qwt5-qt4
-  arch: pyqwt5
+  arch: pyqwt
 python-qt4-gl:
   ubuntu: 
     apt: 
