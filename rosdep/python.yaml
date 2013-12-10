@@ -10,7 +10,7 @@ paramiko:
   macports: py26-paramiko
   gentoo: dev-python/paramiko
   freebsd: py27-paramiko
-  arch: python-paramiko
+  arch: python2-paramiko
 python:
   ubuntu: python-dev
   debian: python-dev
@@ -135,7 +135,7 @@ python-paramiko:
   macports: py26-paramiko
   gentoo: dev-python/paramiko
   freebsd: py27-paramiko
-  arch: python-paramiko
+  arch: python2-paramiko
 python-pydot:
   ubuntu: python-pydot
   arch: pydot
