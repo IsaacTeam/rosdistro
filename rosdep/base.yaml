@@ -1474,6 +1474,8 @@ pcl:
   debian:
     wheezy:
       libpcl1-dev
+  arch:
+    pcl
 
 ros:
   debian: |
