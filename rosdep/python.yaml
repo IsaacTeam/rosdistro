@@ -168,6 +168,7 @@ python-redis:
   ubuntu: python-redis
 python-rosdep:
   ubuntu: python-rosdep
+  arch: python2-rosdep
 python-rospkg:
   ubuntu: python-rospkg
   fedora: python-rospkg
