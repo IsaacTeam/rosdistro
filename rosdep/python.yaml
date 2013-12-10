@@ -171,6 +171,7 @@ python-rosdep:
 python-rospkg:
   ubuntu: python-rospkg
   fedora: python-rospkg
+  arch: python2-rospkg
 python-scapy:
   ubuntu: python-scapy
 python-scipy:
