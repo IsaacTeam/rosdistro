@@ -25,6 +25,7 @@ python:
 python-argparse:
   ubuntu: python-argparse
   fedora: python-argparse
+  arch: python2-argparse
 python-avahi:
   ubuntu: python-avahi
   debian: python-avahi
