@@ -727,8 +727,9 @@ libpcap:
     pacman:
       packages: [libpcap]
 libpcl-all:
-  arch:
-    pcl
+  arch: pcl
+libpcl-all:
+  arch: pcl
 libpcsclite-dev:
   arch: pcsclite
   debian: libpcsclite-dev

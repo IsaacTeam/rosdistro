@@ -84,6 +84,8 @@ python-imaging:
   macports: py26-pil
   gentoo: dev-python/imaging
   freebsd: py27-imaging
+python-kitchen:
+  arch: python2-kitchen
 python-libpcap:
   ubuntu: python-libpcap
 python-matplotlib:
@@ -163,6 +165,7 @@ python-qt-bindings-gl:
   ubuntu: python-qt4-gl
 python-qt-bindings-qwt5:
   ubuntu: python-qwt5-qt4
+  arch: pyqwt5
 python-qt4-gl:
   ubuntu: 
     apt: 
@@ -217,6 +220,7 @@ python-sphinx:
 python-support:
   ubuntu: python-support
   fedora: notneeded
+  arch: python2-support
 python-svn: 
   ubuntu: python-svn
 python-sympy: 
