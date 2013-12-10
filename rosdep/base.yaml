@@ -728,7 +728,7 @@ libpcap:
       packages: [libpcap]
 libpcl-all:
   arch: pcl
-libpcl-all:
+libpcl-all-dev:
   arch: pcl
 libpcsclite-dev:
   arch: pcsclite
